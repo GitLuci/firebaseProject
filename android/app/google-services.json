@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29336016324",
+    "firebase_url": "https://taskmanagerproject-22bda-default-rtdb.firebaseio.com",
+    "project_id": "taskmanagerproject-22bda",
+    "storage_bucket": "taskmanagerproject-22bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29336016324:android:1c59b1f8c5f50655f88091",
+        "android_client_info": {
+          "package_name": "com.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29336016324-6ge3kgkk1gr2voophduc10qkqk8j17d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPo02x49Ai5RvODh1qlIpIotrVoiRFwCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29336016324-6ge3kgkk1gr2voophduc10qkqk8j17d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
