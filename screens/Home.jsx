@@ -87,7 +87,8 @@ const Home = () => {
   const renderItem = ({ item }) => (
   
   <TaskList
-  //func = {returnUser(item.id)}  BUGGGGGG
+  //func = {returnUser(item.id)}
+  //TODO: Corrigir bug return user
   worker={userInfo}
   description={item.description} 
   date={item.date}  
@@ -128,6 +129,7 @@ const Home = () => {
     </>
   )
 }
+
 
 const styles = StyleSheet.create({
   title: {
